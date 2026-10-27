@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+"""Lists all states from the hbtn_0e_0_usa database, sorted by id."""
+
 import sys
 import MySQLdb
 
