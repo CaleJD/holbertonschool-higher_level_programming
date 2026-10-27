@@ -1,0 +1,1 @@
+Practicing using SQL inside python objects
