@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Lists all values from states in the hbtn_0e_0_usa database, sorted by id."""
+"""Lists all values from state in the hbtn_0e_0_usa database, sorted by id."""
 
 import sys
 import MySQLdb
