@@ -18,5 +18,5 @@ if __name__ == "__main__":
                 "ORDER BY states.id ASC".format(state_name,))
     for row in cur.fetchall():
         print(row)
-cur.close()
-db.close()
+    cur.close()
+    db.close()
